@@ -1,4 +1,3 @@
-start = timer()
 f = open("input_day1", 'r')
 
 nums = f.readlines()
