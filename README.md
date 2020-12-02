@@ -1,10 +1,10 @@
-# aoc_2020
+# Advent of Code - 2020 - Python
 
-## Day 1 - Expense Report - [Code](day1.py) - [Input](input_day1)
+## Day 1 - Expense Report - Code [Python3](day1.py) - [Input](input_day1)
 * Part 1: Find the two entries that sum to 2020; what do you get if you multiply them together?
 * Part 2: In your expense report, what is the product of the three entries that sum to 2020?
 
-## Day 2 - Password Philosophy - [Code](day2.py) - [Input](input_day2)
+## Day 2 - Password Philosophy - Code [Python3](day2.py) - [Input](input_day2)
 * Part 1: How many passwords are valid according to their policies?
   * Each line gives the password policy and then the password.
   * The password policy indicates the lowest and highest number of times a given letter must appear for the password to be valid.
