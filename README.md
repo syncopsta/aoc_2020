@@ -16,3 +16,6 @@
   * Exactly one of these positions must contain the given letter.
   * Other occurrences of the letter are irrelevant for the purposes of policy enforcement.
 
+## Day 3 - Toboggan Trajectory - Code [Python3](day3.py) - [Input](input_day3)
+* Part 1: How many trees you hit, on a grid with a specific stepping pattern?
+* Part 2: Multiply the number of trees you hit with different stepping patterns. 
