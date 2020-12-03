@@ -1,10 +1,10 @@
 # Advent of Code - 2020 - Python
 
-## Day 1 - Expense Report - Code [Python3](day1.py) - [Input](input_day1)
+## Day 1 - Expense Report - Code [Python3](day1.py) - [Input](input_day1) - Execution Time: 1075,86 ms
 * Part 1: Find the two entries that sum to 2020; what do you get if you multiply them together?
 * Part 2: In your expense report, what is the product of the three entries that sum to 2020?
 
-## Day 2 - Password Philosophy - Code [Python3](day2.py) - [Input](input_day2)
+## Day 2 - Password Philosophy - Code [Python3](day2.py) - [Input](input_day2) - Execution Time: 3,24 ms
 * Part 1: How many passwords are valid according to their policies?
   * Each line gives the password policy and then the password.
   * The password policy indicates the lowest and highest number of times a given letter must appear for the password to be valid.
@@ -16,6 +16,6 @@
   * Exactly one of these positions must contain the given letter.
   * Other occurrences of the letter are irrelevant for the purposes of policy enforcement.
 
-## Day 3 - Toboggan Trajectory - Code [Python3](day3.py) - [Input](input_day3)
+## Day 3 - Toboggan Trajectory - Code [Python3](day3.py) - [Input](input_day3) - Execution Time: 0,48 ms
 * Part 1: How many trees you hit, on a grid with a specific stepping pattern?
 * Part 2: Multiply the number of trees you hit with different stepping patterns. 
