@@ -21,5 +21,5 @@
 * Part 2: Multiply the number of trees you hit with different stepping patterns. 
 
 
-## Day 3 - Passport Processing - Code [Python3](day4.py) - [Input](input_day4)
+## Day 4 - Passport Processing - Code [Python3](day4.py) - [Input](input_day4)
 * Part 1: How many passports have the needed fields?
